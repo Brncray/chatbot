@@ -20,7 +20,7 @@ chatbot = ChatBot(
 
 
 bot = lightbulb.BotApp(
-    token="MTA3Mjg3OTcyNzc1MDE2MDQ5Nw.GO7ZPk.QsGYWJxeWyIH-xbHwBLGBGmuOpAV1AiqNaCRnE",
+    token="Mtoken",
     help_slash_command=True,
     intents=hikari.Intents.ALL_UNPRIVILEGED | hikari.Intents.MESSAGE_CONTENT 
 )
